@@ -1,0 +1,14 @@
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\bin\Debug\net8.0\ConcurrentRequestsTest.exe
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\bin\Debug\net8.0\ConcurrentRequestsTest.deps.json
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\bin\Debug\net8.0\ConcurrentRequestsTest.runtimeconfig.json
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\bin\Debug\net8.0\ConcurrentRequestsTest.dll
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\bin\Debug\net8.0\ConcurrentRequestsTest.pdb
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.AssemblyInfoInputs.cache
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.AssemblyInfo.cs
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.csproj.CoreCompileInputs.cache
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.dll
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\refint\ConcurrentRequestsTest.dll
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.pdb
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ConcurrentRequestsTest.genruntimeconfig.cache
+C:\Users\msdaw\source\repos\ConcurrentRequestsTest\obj\Debug\net8.0\ref\ConcurrentRequestsTest.dll
