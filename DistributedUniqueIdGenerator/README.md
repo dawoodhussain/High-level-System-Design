@@ -1,4 +1,5 @@
-# Unique ID Generator System
+<h1 align="center">Unique ID Generator System</h1>
+<br/>
 
 ## Problem Statement
 We need a distributed Unique ID Generator to assign distinct identifiers to various events. The API should generate 100 million unique IDs daily.
