@@ -1,0 +1,9 @@
+﻿@AppServer1_HostAddress = https://localhost:7033
+
+Get {{AppServer1_HostAddress}}/
+
+###
+
+Get {{AppServer1_HostAddress}}/getId
+
+###

@@ -1,0 +1,44 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Range Handler API Service",
+    "description": "This service is called by App servers to get their range for generate distributed sequence Ids",
+    "version": "v1"
+  },
+  "paths": {
+    "/getrange": {
+      "get": {
+        "tags": [
+          "RangeHandlerService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Int32Int32Tuple"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Int32Int32Tuple": {
+      "type": "object",
+      "properties": {
+        "item1": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "item2": {
+          "format": "int32",
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

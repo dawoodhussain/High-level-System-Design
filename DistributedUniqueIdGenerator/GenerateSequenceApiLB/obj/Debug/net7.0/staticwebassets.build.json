@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f/bwrFh2JnIpPdVgMIdwqigU80Gp5YlPmI1V1jy5fqQ=",
+  "Source": "GenerateSequenceApiLB",
+  "BasePath": "_content/GenerateSequenceApiLB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

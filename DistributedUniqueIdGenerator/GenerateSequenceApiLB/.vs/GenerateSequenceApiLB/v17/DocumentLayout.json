@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|c:\\users\\msdaw\\source\\repos\\high-level-system-design\\distributeduniqueidgenerator\\generatesequenceapilb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|c:\\users\\msdaw\\source\\repos\\high-level-system-design\\distributeduniqueidgenerator\\generatesequenceapilb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|c:\\users\\msdaw\\source\\repos\\high-level-system-design\\distributeduniqueidgenerator\\generatesequenceapilb\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C3A60-2F8A-4763-BE43-30C284B05E44}|GenerateSequenceApiLB.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T06:32:22.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T03:29:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\msdaw\\source\\repos\\High-level-System-Design\\DistributedUniqueIdGenerator\\GenerateSequenceApiLB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-16T17:03:55.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

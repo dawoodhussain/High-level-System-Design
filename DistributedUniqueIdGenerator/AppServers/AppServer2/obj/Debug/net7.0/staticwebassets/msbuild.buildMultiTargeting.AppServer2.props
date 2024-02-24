@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppServer2.props" />
+</Project>

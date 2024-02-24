@@ -1,0 +1,12 @@
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\RangeHandlerService.exe
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\RangeHandlerService.dll
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\RangeHandlerService.deps.json
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\RangeHandlerService.runtimeconfig.json
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\RangeHandlerService.pdb
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msdaw\source\repos\DistributedUniqueIdGenerator\RangeHandlerService\RangeHandlerService\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
