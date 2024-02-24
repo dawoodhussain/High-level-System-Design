@@ -28,6 +28,8 @@ In a distributed environment, databases scale horizontally, partitioning the sam
 - Rate limiting implemented for 429 responses.
 - Server URLs and balancing algorithms configurable in appsettings.json.
 - [Here is the code](https://github.com/dawoodhussain/High-level-System-Design/tree/main/DistributedUniqueIdGenerator/GenerateSequenceApiLB)
+- This solution when compiled from local will run on **https://localhost:7052/** port
+- API Endpoint - https://localhost:7052/api/getId
 
 ### App Servers
 - Created a minimal API acting as APP servers.
@@ -35,6 +37,7 @@ In a distributed environment, databases scale horizontally, partitioning the sam
 - Responds to requests by incrementing IDs within range until exhausted, then requests a new range.
 - Project duplicated four times for load balancing across servers.
 - [Here is the code](https://github.com/dawoodhussain/High-level-System-Design/tree/main/DistributedUniqueIdGenerator/AppServers)
+- This solution when compiled from local will run on **https://localhost:7193/, https://localhost:7239/, https://localhost:7033/, https://localhost:7116/** ports. API Endpoint - https://localhost:*/getId
 
 ### RangeHandlerService
 - Developed a centralized minimal API.
@@ -43,6 +46,7 @@ In a distributed environment, databases scale horizontally, partitioning the sam
 - When empty, reloads queue from next available numbers.
 - Configurable UpperRangeLimit & RangeSplit in appsettings.json.
 - [Here is the code](https://github.com/dawoodhussain/High-level-System-Design/tree/main/DistributedUniqueIdGenerator/RangeHandlerService)
+- This solution when compiled from local will run on **https://localhost:7140/** port. API Endpoint - https://localhost:7140/getrange
 
 ## Tech Stack
 - C# console application
@@ -59,3 +63,4 @@ In a distributed environment, databases scale horizontally, partitioning the sam
 ## Next Enhancements
 1. Modify the logic to have Casualty for the unique id generated.
 2. Utilize Docker compose to replicate app servers instead of duplicating code.
+3. Deploy it to Azure web API management. Try pulling the configurable values from Azure App configuration instead of project specific appsettings.json file
